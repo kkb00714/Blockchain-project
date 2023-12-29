@@ -235,6 +235,12 @@
     ex) // SPDX-License-Identifier: MIT
         pragma solidity ^0.8.22;
 
+
+    -------------------
+
+
+    ※ Solidity 기초 문법 I
+
     ※ 
 
 
