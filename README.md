@@ -241,7 +241,9 @@
 
     ※ Solidity 기초 문법 I
 
-    ※ 
+    ※ 변수 : int, uint, string, bool, 등
+
+    ※ 함수
 
 
 
