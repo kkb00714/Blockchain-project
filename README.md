@@ -207,7 +207,25 @@
 
     -------------------
 
-
     ※ EVM (Etherium virtual Machine) - 환경
-    
+
+    ※ Solidity 
+    => 블록체인 스마트 컨트랙트 작성에 쓰이는 언어
+
+    -------------------
+
+    ※ Remix IDE (Solidity 작성을 위한 IDE - 온라인으로 진행)
+
+    https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.22+commit.4fc1097e.js
+
+
+    ※ Solidity Code를 컴퓨터가 읽을 수 있도록 Compile (변환) 
+    => Ethereum Byte code 라고 함
+    => Deploy(배포) 를 통해 EVM Blockchain 에 배포 (서비스가 가능한 상태)
+
+    ※ 
+
+
+
+
 
