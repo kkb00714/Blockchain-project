@@ -223,6 +223,18 @@
     => Ethereum Byte code 라고 함
     => Deploy(배포) 를 통해 EVM Blockchain 에 배포 (서비스가 가능한 상태)
 
+
+-------------------
+
+# 스마트 컨트랙트
+
+    ※ Solidity의 확장자명 (.sol)
+
+    ※ Solidity 파일은 라이센스를 명시해주어야 함
+    => Solidity에서 라이센스를 명시할 때, 주석에서 명시해줌
+    ex) // SPDX-License-Identifier: MIT
+        pragma solidity ^0.8.22;
+
     ※ 
 
 
